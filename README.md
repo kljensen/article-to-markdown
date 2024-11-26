@@ -2,7 +2,9 @@
 
 A small Rust program to convert web articles to Markdown effortlessly.
 
-## ✨ Features
+## ✨ Workflow
+
+This program does four things...
 
 1. 🖥️ Accepts a URL from the command line.
 2. 📥 Fetches the URL content.
