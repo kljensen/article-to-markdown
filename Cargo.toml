@@ -1,0 +1,8 @@
+[package]
+name = "article-to-markdown"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+readability = { git = "https://github.com/kumabook/readability", rev = "c695ca78ba0d7ae15d058f92eb3adc9bd44e0d07" }
+htmd = "0.1"
