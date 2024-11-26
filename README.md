@@ -24,7 +24,7 @@ cargo build --release
 Here's an example converting [this NYTimes article about SBF](https://www.nytimes.com/2024/02/27/technology/sam-bankman-fried-fraud-ftx.html)
 to markdown. (I added linebreaks for clarity.)
 
-```sh
+```
 > ./target/release/article-to-markdown 'https://www.nytimes.com/2024/02/27/technology/sam-bankman-fried-fraud-ftx.html'
 # Sam Bankman-Fried Seeks Lenient Sentence and to Appeal Conviction - The New York Times
 
