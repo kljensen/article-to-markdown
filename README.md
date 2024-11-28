@@ -42,3 +42,7 @@ Mr. Bankman-Fried is “deeply, deeply sorry” for “the pain he caused over t
 
 The filing was a crucial step before Mr. Bankman-Fried’s sentencing on March 28, when the federal judge overseeing his case, Lewis A. Kaplan, will decide how long to imprison the one-time billionaire on charges that carry a maximum sentence of 110 years. But it was only one prong of a long-shot strategy orchestrated by Mr. Bankman-Fried’s family and friends to reverse his conviction and engineer a public reappraisal of his leadership at FTX.
 ```
+
+## Related projects
+
+There are many. This is the one I actually use: [mrusme/reader](https://github.com/mrusme/reader).
